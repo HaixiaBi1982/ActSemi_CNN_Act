@@ -1,9 +1,7 @@
 # ActSemi_CNN_Act
 
-README
-This README would normally document whatever steps are necessary to get your application up and running.
-
 Installation
+
 Clone the code and its submodules
 
 git clone git@bitbucket.org:irc-sphere/semisupervision_attn_cnn.git
